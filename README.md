@@ -5,7 +5,7 @@
 
 ---
 
-### 💫 About Me:
+### 💫 About Me
 
 - 🎓 Final-year Software Engineering student at NED University
 - 🧩 Creator of **AutiCare** – a React Native app designed to support autistic children through engaging games
@@ -35,13 +35,14 @@
 ### 📫 Connect with Me
 
 <p align="left">
+  <a href=""><img src="https://img.icons8.com/?size=100&id=5tk64ASe7tdw&format=png&color=000000" alt="Portfolio" width="40" height="40"/></a>
   <a href="mailto:saraaziz180903@gmail.com"><img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="Gmail" width="40" height="40"/></a>
   <a href="https://www.linkedin.com/in/saradotdev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Linkedin" width="40" height="40"/></a>
 </p>
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats
 ![](https://nirzak-streak-stats.vercel.app/?user=saradotdev&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saradotdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
