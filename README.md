@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Sara 👋</h1>
 <p align="center">
-  Final-year Software Engineering student | Backend Developer | Passionate about tech
+  Software Engineer | Web Developer | Problem Solver | Tech Enthusiast
 </p>
 
 ---
 
 ### 💫 About Me
 
-- 🎓 Final-year Software Engineering student at NED University
+- 🎓 Software Engineering graduate from NED University
 - 🧩 Creator of **AutiCare** – a React Native app designed to support autistic children through engaging games
 - ⚙️ Focused on **Python** and **JavaScript**
 - 🧠 Enjoy solving real-world problems through thoughtful software
@@ -28,6 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" alt="Vite" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
 </p>
 
 ---
